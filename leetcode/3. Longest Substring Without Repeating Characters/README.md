@@ -21,5 +21,6 @@ Explanation: The answer is "wke", with the length of 3.
 ```
 
 # Complete
-Runtime: 16 ms, faster than 45.82% of C online submissions for Longest Substring Without Repeating Characters.
-Memory Usage: 7.1 MB, less than 100.00% of C online submissions for Longest Substring Without Repeating Characters.
+Runtime: **16** ms, faster than **45.82%** of C online submissions for Longest Substring Without Repeating Characters.
+
+Memory Usage: **7.1** MB, less than **100.00%** of C online submissions for Longest Substring Without Repeating Characters.
