@@ -20,4 +20,5 @@ The median is (2 + 3)/2 = 2.5
 ```
 # Complete
 Runtime: **12 ms**, faster than **85.97%** of C online submissions for Median of Two Sorted Arrays.
+
 Memory Usage: **7.7 MB**, less than **66.67%** of C online submissions for Median of Two Sorted Arrays.
