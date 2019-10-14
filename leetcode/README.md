@@ -5,3 +5,5 @@
 3. [3. Longest Substring Without Repeating Characters](https://tinyurl.com/y6hpr6mu) **19/10/12 Complete**
 
 4. [4. Median of Two Sorted Arrays](https://tinyurl.com/y3t44um9) **19/10/13 Complete**
+
+5. [5. Longest Palindromic Substring]() **19/10/14 Complete**
