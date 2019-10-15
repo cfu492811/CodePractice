@@ -6,4 +6,8 @@
 
 4. [4. Median of Two Sorted Arrays](https://tinyurl.com/y3t44um9) **19/10/13 Complete**
 
-5. [5. Longest Palindromic Substring]() **19/10/14 Complete**
+5. [5. Longest Palindromic Substring](https://tinyurl.com/y5sgdxy6) **19/10/14 Complete**
+
+6. [6. ZigZag Conversion]() **19/10/15 Complete**
+
+7. [7. Reverse Integer]() **19/10/15 Complete**
