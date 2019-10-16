@@ -12,6 +12,10 @@
 
 7. [7. Reverse Integer](https://tinyurl.com/y6pjypqv) **19/10/15 Complete**
 
-8. [8. String to Integer (atoi)]() **19/10/16 Complete**
+8. [8. String to Integer (atoi)](https://tinyurl.com/yxm2xsgy) **19/10/16 Complete**
 
-9. [9. Palindrome Number]() **19/10/16 Complete**
+9. [9. Palindrome Number](https://tinyurl.com/y6xkrxoo) **19/10/16 Complete**
+
+10. []()
+
+11. []()

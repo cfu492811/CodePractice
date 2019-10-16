@@ -42,4 +42,4 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 Runtime: **8 ms**, faster than **80.74%** of C online submissions for Palindrome Number.
 
-Memory Usage: 7.1 MB, less than **85.71%** of C online submissions for Palindrome Number.
+Memory Usage: **7.1 MB**, less than **85.71%** of C online submissions for Palindrome Number.
