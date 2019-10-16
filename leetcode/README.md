@@ -8,6 +8,10 @@
 
 5. [5. Longest Palindromic Substring](https://tinyurl.com/y5sgdxy6) **19/10/14 Complete**
 
-6. [6. ZigZag Conversion]() **19/10/15 Complete**
+6. [6. ZigZag Conversion](https://tinyurl.com/yxtcfcna) **19/10/15 Complete**
 
-7. [7. Reverse Integer]() **19/10/15 Complete**
+7. [7. Reverse Integer](https://tinyurl.com/y6pjypqv) **19/10/15 Complete**
+
+8. [8. String to Integer (atoi)]() **19/10/16 Complete**
+
+9. [9. Palindrome Number]() **19/10/16 Complete**
