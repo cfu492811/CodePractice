@@ -16,6 +16,12 @@
 
 9. [9. Palindrome Number](https://tinyurl.com/y6xkrxoo) **19/10/16 Complete**
 
-10. []()
+10. [10. Regular Expression Matching]() **19/10/18 Complete**
 
 11. [11. Container With Most Water]() **19/10/17 Complete**
+
+12. [12. Integer to Roman]() **19/10/18 Complete**
+
+13. [13. Roman to Integer]() **19/10/18 Complete**
+
+14. [14. Longest Common Prefix]() **19/10/18 Complete**
