@@ -19,5 +19,5 @@ All given inputs are in lowercase letters ```a-z```.
 
 
 # Complete
-Runtime: 4 ms, faster than 67.09% of C online submissions for Longest Common Prefix.
-Memory Usage: 7.1 MB, less than 87.50% of C online submissions for Longest Common Prefix.
+Runtime: **4 ms**, faster than **67.09%** of C online submissions for Longest Common Prefix.
+Memory Usage: **7.1 MB**, less than **87.50%** of C online submissions for Longest Common Prefix.

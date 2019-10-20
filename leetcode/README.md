@@ -16,12 +16,18 @@
 
 9. [9. Palindrome Number](https://tinyurl.com/y6xkrxoo) **19/10/16 Complete**
 
-10. [10. Regular Expression Matching]() **19/10/18 Complete**
+10. [10. Regular Expression Matching](https://tinyurl.com/y5zrazup) **19/10/18 Complete**
 
-11. [11. Container With Most Water]() **19/10/17 Complete**
+11. [11. Container With Most Water](https://tinyurl.com/yxrzofgy) **19/10/17 Complete**
 
-12. [12. Integer to Roman]() **19/10/18 Complete**
+12. [12. Integer to Roman](https://tinyurl.com/y6eln9gc) **19/10/18 Complete**
 
-13. [13. Roman to Integer]() **19/10/18 Complete**
+13. [13. Roman to Integer](https://tinyurl.com/y356hyen) **19/10/18 Complete**
 
-14. [14. Longest Common Prefix]() **19/10/18 Complete**
+14. [14. Longest Common Prefix](https://tinyurl.com/y5xnk489) **19/10/18 Complete**
+
+15. []()
+
+16. [16. 3Sum Closest]() **19/10/19 Complete**
+
+20. [20. Valid Parentheses]() **19/10/20 Complete**
