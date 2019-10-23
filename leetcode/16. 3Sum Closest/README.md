@@ -8,4 +8,5 @@ The sum that is closest to the target is 2. (-1 + 2 + 1 = 2).
 ```
 # Complete
 Runtime: **320 ms**, faster than **19.00%** of C online submissions for 3Sum Closest.
+
 Memory Usage: **7.1 MB**, less than **100.00%** of C online submissions for 3Sum Closest..

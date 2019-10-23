@@ -34,4 +34,5 @@ Output: true
 
 # Complete
 Runtime: **4 ms**, faster than **59.51%** of C online submissions for Valid Parentheses.
+
 Memory Usage: **7.1 MB**, less than **15.38%** of C online submissions for Valid Parentheses.

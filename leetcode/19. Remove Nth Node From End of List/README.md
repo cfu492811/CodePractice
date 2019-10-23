@@ -18,4 +18,5 @@ Could you do this in one pass?
 # Complete
 
 Runtime: **4 ms**, faster than **62.62%** of C online submissions for Remove Nth Node From End of List.
+
 Memory Usage: **7 MB**, less than **100.00%** of C online submissions for Remove Nth Node From End of List.

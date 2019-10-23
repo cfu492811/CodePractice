@@ -30,4 +30,10 @@
 
 16. [16. 3Sum Closest]() **19/10/19 Complete**
 
+17. [17. Letter Combinations of a Phone Number]() **19/10/21 Complete**
+
+19. [19. Remove Nth Node From End of List]() **19/10/22 Complete**
+
 20. [20. Valid Parentheses]() **19/10/20 Complete**
+
+23. [23. Merge k Sorted Lists]() **19/10/23 Complete**
