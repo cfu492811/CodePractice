@@ -36,4 +36,8 @@
 
 20. [20. Valid Parentheses]() **19/10/20 Complete**
 
+21. [21. Merge Two Sorted Lists]() **19/10/24 Complete**
+
+22. [22. Generate Parentheses]() **19/10/24 Complete**
+
 23. [23. Merge k Sorted Lists]() **19/10/23 Complete**
